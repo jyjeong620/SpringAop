@@ -1,0 +1,6 @@
+GET http://localhost:8080/api/get?name=Jeong
+Accept: application/json
+
+
+###
+
