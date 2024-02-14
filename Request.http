@@ -1,6 +1,11 @@
 GET http://localhost:8080/api/get?name=Jeong
 Accept: application/json
+X-Auth-Token: 1234567890
 
 
 ###
+
+
+GET http://localhost:8080/
+Accept: application/json
 
